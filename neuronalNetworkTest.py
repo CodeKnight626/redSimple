@@ -33,9 +33,6 @@ class Perceptron:
         self.expectedOutputs = [] #Number of outputs
         
         self.epochs = 0
-        #self.build()
-        #self.enterData()
-        #self.calculateError()
         
     
     def build(self):
